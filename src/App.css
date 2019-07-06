@@ -31,3 +31,39 @@
     transform: rotate(360deg);
   }
 }
+.mt-50{
+  margin-top: 50px;
+}
+span{
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+.active{
+  border: solid 3px black;
+}
+#content{
+  padding: 10px;
+  border: solid 3px red;
+}
+
+.mt-15{
+  margin-top: 15px;
+}
+.btn{
+  width: 100px;
+  height: 35px;
+}
+.dp{
+  display: flex;
+
+}
+.ml-5{
+  margin-left: 5px;
+}
+.l{
+  float: right;
+}
+.fa-check{
+  margin-left: 10px;
+}
